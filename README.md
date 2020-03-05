@@ -1,3 +1,3 @@
 # hello-world
-first hello-world repository
+first hello-world repository.
 I am editing this file in new branch
